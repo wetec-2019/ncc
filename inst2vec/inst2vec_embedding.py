@@ -32,7 +32,7 @@ import os
 import subprocess
 import datetime
 import tensorflow as tf
-from tensorflow.contrib.tensorboard.plugins import projector
+from tensorboard.plugins import projector
 from tensorflow.python.client import timeline
 from datetime import datetime
 import random
